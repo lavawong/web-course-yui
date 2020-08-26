@@ -1,0 +1,5 @@
+{
+  "template": "webpack",
+  "hardReloadOnChange": true,
+  "port": 9000
+}
